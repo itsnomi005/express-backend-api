@@ -19,3 +19,6 @@ app.get('/api/users', (req, res) => {
 app.get('/about', (req, res) => {
   res.send('This is the About page!');
 });
+app.get('/api/posts', (req, res) => {
+  res.json([{ id: 1, title: "First Post" }]);
+});
