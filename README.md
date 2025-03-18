@@ -11,3 +11,8 @@ A RESTful API built with Express.js and MongoDB.
 ```bash
 npm install
 node app.js
+## API Endpoints
+| Method | Endpoint       | Description          |
+|--------|----------------|----------------------|
+| GET    | /api/posts     | Get all posts        |
+| POST   | /api/users     | Create a new user    |
