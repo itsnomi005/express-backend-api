@@ -21,3 +21,8 @@ node app.js
 |--------|----------------|----------------------|
 | GET    | /api/posts     | Get all posts        |
 | POST   | /api/users     | Create a new user    |
+## API Endpoints
+| Method | Endpoint       | Description          |
+|--------|----------------|----------------------|
+| GET    | /api/posts     | Get all posts        |
+| POST   | /api/users     | Create a new user    |
